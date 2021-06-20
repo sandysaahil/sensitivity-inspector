@@ -1,0 +1,14 @@
+{
+  "PUBLIC_PRIVATE_KEY": {
+    "regexes": [
+      {
+        "value": "\/\d\/g",
+        "confidenceDetailed": {
+          "name": "ppkey1",
+          "type": "reg",
+          "confidence": 1
+        }
+      }
+      ]
+  }
+}
